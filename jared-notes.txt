@@ -1,0 +1,31 @@
+git add [file]
+	tells git to start tacking a specific file
+
+git commit -m 'message'
+	commits change into repositorry
+
+git status
+	tells us the status of our working directory
+
+git log
+	Shows us all the commits made
+
+git log --oneline
+	Show us all the commits in one line
+
+git diff
+	Shows us what has changed between our working directory and staging area
+
+FEATURE A
+
+git merge 
+
+git branch [name]
+
+git checkout [branch-name / commit ID / tag name]
+    Companies use tag names like 'Version 1' to indicate major versions their customers are using.
+
+
+    revert
+
+    [upload this change]
